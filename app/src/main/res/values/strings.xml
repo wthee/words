@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">词</string>
+    <string name="word_hint">输入词语</string>
+    <string name="word_ex_hint">词语解释</string>
+    <string name="word_ex_helper">建议字数不超过50</string>
+    <string name="word_helper">建议字数不超过5</string>
+    <string name="line_color">线框颜色</string>
+    <string name="color_pick_text">字体颜色</string>
+    <string name="test">测试测试测试</string>
+    <string name="line_width">线框粗细</string>
+    <string name="line_size">线框大小</string>
+    <string name="word_width">字体粗细</string>
+    <string name="word_color">字体颜色</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
